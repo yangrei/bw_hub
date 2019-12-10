@@ -1,0 +1,1 @@
+track type=bigWig name="test1.bw" bigDataUrl=https://github.com/yangrei/bw_hub/blob/master/ATAC-seq-NALM6-1.srt.rmdup.hg19.chr13.bw
